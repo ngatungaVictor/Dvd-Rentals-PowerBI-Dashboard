@@ -58,11 +58,11 @@ Key points (full table in `docs/02-powerbi-connection-and-model.md`):
 > Fill this section in from your own dashboard. Use real figures only.
 > A template is in `docs/06-insights-template.md`.
 
-- Total revenue: **[$613100]** across **[16000]** rentals and **[599]** customers
-- Top category by revenue: **[Action]**; top title: **[Telegraph Voyage]**
-- Top 10 customers account for **[3.01]%** of revenue
-- Rentals peak on **[Thursday]** around **[1500]**
-- Late return rate: **[45.83]%**
+- Total revenue: **$61310** across **16000** rentals and **599** customers
+- Top category by revenue: **Action**; top title: **Telegraph Voyage**
+- Top 10 customers account for **3.01%** of revenue
+- Rentals peak on **Thursday** around **1500**
+- Late return rate: **45.83%**
 
 ## Lessons learned
 
